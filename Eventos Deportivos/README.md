@@ -1,11 +1,10 @@
 # eventos_deportivos
 
-Descripciín basisca de su Proyecto de POO ...
+Gestión de eventos y personas relacionadas
 
 # Autores
 
-- Autor 1
-- Autor 2
+- Luis Daniel Gómez Vallejo (@luisd163)
 
 # Herramientas
 
